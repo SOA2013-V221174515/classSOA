@@ -1,0 +1,15 @@
+1) Rails is Model-View-Controller (MVC)  framework 框架
+to generate a controller: $ rails g controller controller_name
+
+2)http://localhost:3000 will tell you what's wrong. 
+Pay attention to the information on the website.
+e.g. SyntaxError in WelcomeController#index
+
+3) you will see what's changed in routes.rb after you run $rake routes.
+
+4) the ":" means a label/symbol in Ruby.
+
+5) Iterator 迭代運用
+  e.g 5.times { print "a_string" } will have the same result as "a_string"*5
+
+6) 
